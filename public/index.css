@@ -1,0 +1,17 @@
+.errorMessage {
+    color: brown;
+}
+.loader_container {
+    margin: auto;
+    width: 250px;
+}
+
+.navbar_text{
+    font-size: medium;
+}
+
+.pagination li.active {
+    outline: none !important;
+    background-color: darkgrey !important;
+}
+
